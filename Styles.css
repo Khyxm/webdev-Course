@@ -1,0 +1,26 @@
+body {
+  background-color: #E8F6EF;
+  font-family: "Garamond", serif;
+  font-style: normal;
+  font-size: 20px;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 7%;
+}
+
+h1 {
+  color: #595B83;
+  font-family: "Garamond", serif;
+  font-style: normal;
+}
+
+h3 {
+  color: #333456;
+  font-family: "Garamond", serif;
+  font-style: normal;
+}
